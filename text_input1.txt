@@ -1,0 +1,26 @@
+
+
+========================================
+    PERSONAL INFORMATION MANAGER
+========================================
+
+Please tell me about yourself:
+------------------------------
+What's your favorite food? Apple
+What's your favorite color? Black
+
+========================================
+        YOUR INFORMATION
+========================================
+
+Name: Alex Johnson
+Age: 22 years (264 months old)
+City: San Francisco
+Hobby: playing guitar
+
+Favorite Food: Apple
+Favorite Color: Black
+
+========================================
+Thanks for using this program!
+========================================
